@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Brawl Stars Wiki</string>
+    <string name="brawler_name">Brawler Name</string>
+    <string name="brawler_desc">Brawler description</string>
+    <string name="brawler_rarity">Brawler rarity</string>
+    <string name="detail">Detail</string>
+    <string name="health">Heatlh: %1$d</string>
+    <string name="attack">Attack: %1$d</string>
+    <string name="brawler_detail">Brawler detail</string>
+    <string name="share_button">share button</string>
+    <string name="about_me">About me</string>
+    <string name="about_name">Hakam Royhan Adiluhung</string>
+    <string name="about_email">hakamra107@gmail.com</string>
+
+    <string-array name="brawler_name">
+        <item>Nita</item>
+        <item>Poco</item>
+        <item>El Primo</item>
+        <item>Edgar</item>
+        <item>Piper</item>
+        <item>Stu</item>
+        <item>Amber</item>
+        <item>Crow</item>
+        <item>Leon</item>
+        <item>Meg</item>
+    </string-array>
+
+    <string-array name="brawler_rarity">
+        <item>Rare</item>
+        <item>Rare</item>
+        <item>Rare</item>
+        <item>Epic</item>
+        <item>Epic</item>
+        <item>Epic</item>
+        <item>Legendary</item>
+        <item>Legendary</item>
+        <item>Legendary</item>
+        <item>Legendary</item>
+    </string-array>
+
+    <integer-array name="brawler_health">
+        <item>4000</item>
+        <item>3700</item>
+        <item>6000</item>
+        <item>2800</item>
+        <item>2400</item>
+        <item>2900</item>
+        <item>3200</item>
+        <item>2400</item>
+        <item>3200</item>
+        <item>2300</item>
+    </integer-array>
+
+    <integer-array name="brawler_attack">
+        <item>960</item>
+        <item>760</item>
+        <item>360</item>
+        <item>540</item>
+        <item>1520</item>
+        <item>1080</item>
+        <item>2000</item>
+        <item>620</item>
+        <item>1440</item>
+        <item>1200</item>
+    </integer-array>
+
+    <string-array name="brawler_desc">
+        <item>Nita strikes her enemies with a thunderous shockwave. Her Super summons a massive bear to fight by her side!</item>
+        <item>Poco fires damaging sound waves at enemies. His Super can heal both Poco himself and his teammates!</item>
+        <item>El Primo throws a flurry of punches at his enemies. His Super is a leaping elbow drop that deals damage to all caught underneath!</item>
+        <item>Edgy and with a hands-off attitude, Edgar prefers to throw punches with his scarf. With his Super, Edgar jumps into the fray swinging his scarf around himself.</item>
+        <item>Piper\'s sniper shots do more damage the farther they travel. Her Super drops grenades at her feet, while Piper herself leaps away!</item>
+        <item>Stu is a stunt driver extraordinaire with gasoline in his veins! He makes a big entrance, burning serious rubber all over the stage.</item>
+        <item>Amber has always been a firebug. She loves to light up the world and any opponents that come at her!</item>
+        <item>This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore.</item>
+        <item>Leon shoots a quick salvo of blades at his target. His Super trick is a smoke bomb that makes him invisible for a little while!</item>
+        <item>Meg has a basic form and an advanced form where she hops inside her trusted Mecha suit. The suit gradually loses health, returning Meg to her basic form when the Mecha suit is destroyed.</item>
+    </string-array>
+
+    <string-array name="brawler_detail">
+        <item>Nita is a Rare Brawler who has moderately high health and attacks with shockwaves that have a moderate range and pierce through enemies, being able to hit multiple of them at the same time. She is most notable for her Super\'s ability to summon Bruce, a bear that has moderately high health and quick melee attacks. Her first Gadget, Bear Paws, will briefly stun all enemies in an area around her Bear. Her second Gadget, Faux Fur, shields Bruce for a brief amount of time. Her first Star Power, Bear with Me, heals her Bear slightly but considerably whenever she herself hits an enemy with her attack, and heals her likewise whenever Bruce hits an enemy. Her second Star Power, Hyper Bear, increases the attack speed of Bruce.
+        </item>
+        <item>Poco is a Rare Brawler who has moderate health and the ability to provide immense healing to his teammates, but very low damage. For his attack, Poco plays his guitarrón, sending damaging musical notes within a wide spread and range. His Super fires a larger and faster musical wave, healing himself and any allies within its range. His first Gadget, Tuning Fork, gives out a circular musical wave around him that allows himself and allies in it to heal over a few seconds. His second Gadget, Protective Tunes, cleanses allies from any adverse status effects and protects allies from those effects momentarily in a large radius around him. His first Star Power, Da Capo!, allows Poco’s normal attack to heal allies it hits. His second Star Power, Screeching Solo, allows his Super to deal moderately low damage to enemies it hits.
+        </item>
+        <item>El Primo is a Rare Brawler that has the second-highest health of any Brawler, a high damage output, and great mobility with his Super and his fast movement speed, but a very short attack range. El Primo\'s Trait allows him to charge his Super from enemies damaging him. He attacks with a flurry of close-ranged punches that deal high total damage. His Super is a jump that upon landing, deals damage, knocks enemies back, and destroys cover. El Primo\'s first Gadget, Suplex Supplement, instantly grabs the nearest enemy and throws the enemy behind him. His second Gadget, Asteroid Belt, summons a small meteor that upon landing, deals high damage, knocks enemies back, and destroys obstacles. His first Star Power, El Fuego, sets enemies hit by his Super on fire. His second Star Power, Meteor Rush, momentarily increases his movement speed after using his Super.
+        </item>
+        <item>Edgar is an Epic Brawler who could be unlocked for free as a Brawlidays 2020 gift from December 19th through January 7th or from the Starr Road. He has high and consistent burst damage and great mobility with his Super and his very fast movement speed, but low health and a short attack range. His Trait allows his Super to charge itself over time. His attacks throw two quick short-ranged punches with an extremely fast cooldown and reload speed that also slightly heal him per hit on an enemy Brawler. His Super is a quick jump over obstacles that grants him a speed boost upon landing. His first Gadget, Let\'s Fly, drastically increases his Trait’s Super-charge for a short period of time. His second Gadget, Hardcore, provides him a shield that absorbs damage and decays over time. His first Star Power, Hard Landing, allows his Super to deal moderate damage to enemies in his Super\'s landing area of effect. His second Star Power, Fisticuffs, increases the amount he heals per punch.
+        </item>
+        <item>Piper is an Epic Brawler who has low health but can deal very high damage to faraway targets. She fires a long-ranged bullet from her umbrella that deals more damage the further it travels. Her Super pops grenades at her feet before jumping away from her enemies, dealing damage to enemies upon detonation. Her first Gadget, Auto Aimer, allows her to fire a bullet from a side pistol towards the closest enemy, pushing them back and momentarily slowing them down. Her second Gadget, Homemade Recipe, makes her next bullet home in on enemies. Her first Star Power, Ambush, allows her to deal extra damage while firing from a bush. Her second Star Power, Snappy Sniping, reloads part of her ammo when she hits an enemy.
+        </item>
+        <item>Stu is an Epic Brawler who has low health but a high burst damage potential, great mobility with his Super, and the unique ability to charge his Super in one hit. He attacks with two fireworks, and his Super is a short dash that leaves a trail of burning rubber behind him, burning enemies if they touch it. His first Gadget, Speed Zone, drops a booster that increases the movement speed of himself and allies in a large area-of-effect around it. His second Gadget, Breakthrough, allows his next Super to destroy obstacles and send the debris of the destroyed obstacles to damage enemies. His first Star Power, Zero Drag, increases his Super\'s range. His second Star Power, Gaso-Heal, slightly heals Stu when his Super is used.
+        </item>
+        <item>Amber is a Legendary Brawler that has moderate health and a high damage output. She attacks by shooting a continuous, long-ranged stream of fire. Amber’s Super is a flask of fire fluid that creates a flammable puddle on the ground which can be ignited by her attack, and when ignited, sets enemies in it on fire to burn over time. Amber\'s first Gadget, Fire Starters, momentarily increases her movement speed while she spills a trail of fire fluid behind her that behaves identically to her Super\'s puddle. Her second Gadget, Dancing Flames, she creates fireballs that revolve around herself and deals damage each. Her first Star Power, Wild Flames, allows for two Super fire puddles to be placed down simultaneously and to passively charge her Super when standing near her fire fluid. Her second Star Power, Scorchin\' Siphon, increases her reload speed when she’s near her fire fluid.
+        </item>
+        <item>Crow is a Legendary Brawler that has low health, and a low damaging attack that poisons enemies to deal extra damage over time. He has great mobility with his Super and his very fast movement speed. He attacks by firing 3 long-ranged daggers that inflict poison on his enemies. Crow\'s Super makes him jump and land, throwing poisonous daggers around him upon take-off and landing. His first Gadget, Defense Booster, grants him a temporary damage-reducing shield. His second Gadget, Slowing Toxin, slows all poisoned enemies temporarily. His first Star Power, Extra Toxic, moderately decreases the damage output of a poisoned enemy. His second Star Power, Carrion Crow, makes enemies with less than half of their maximum health take more damage from Crow\'s daggers.
+        </item>
+        <item>Leon is a Legendary Brawler who has moderate health and a high damage output at close range. He attacks by flicking out four Spinner Blades that sweep and deal less damage further away. Leon\'s Super makes him temporarily invisible to enemies. His first Gadget, Clone Projector, spawns a clone of himself to confuse enemies. His second Gadget, Lollipop Drop, places his lollipop that turns his teammates and him invisible within its area-of-effect. His first Star Power, Smoke Trails, increases his movement speed while his Super is active. His second Star Power, Invisiheal, heals him over time while his Super is active.
+        </item>
+        <item>Meg is a Legendary Brawler who has very low health and damage in her initial form but can attain an advanced form that has high damage potential and high health. Meg has a fast movement speed in her base form and a very long-ranged attack in both forms. Meg attacks by firing two bolts in quick succession that deal low damage to enemies. Her Super transforms her into a Mecha that momentarily increases her health and modifies Meg\'s attack and Super. The Mecha\'s attack fires two parallel streams of bolts, while its Super deals high damage in a wide arc and charges over time. Her first Gadget, Jolting Volts, momentarily heals her Mecha while it is active. Her second Gadget, Toolbox, places down a toolbox that grants Meg and allies a reload speed boost inside its area-of-effect. Her first Star Power, Force Field, grants her a long-lasting damage reduction shield after her Mecha is taken out. Her second Star Power, Heavy Metal, deals damage and knocks back nearby enemies when her Mecha gets destroyed.
+        </item>
+    </string-array>
+
+    <integer-array name="brawler_pic">
+        <item>@drawable/rare_nita</item>
+        <item>@drawable/rare_poco</item>
+        <item>@drawable/rare_elprimo</item>
+        <item>@drawable/epic_edgar</item>
+        <item>@drawable/epic_piper</item>
+        <item>@drawable/epic_stu</item>
+        <item>@drawable/legendary_amber</item>
+        <item>@drawable/legendary_crow</item>
+        <item>@drawable/legendary_leon</item>
+        <item>@drawable/legendary_meg</item>
+    </integer-array>
+</resources>
